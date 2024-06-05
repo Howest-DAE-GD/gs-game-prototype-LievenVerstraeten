@@ -15,6 +15,8 @@ public:
 	Vector2f m_velocity;
 
 	Point2f m_playerPos;
+
+	Rectf m_ProjectileHitBox;
 	
 private:
 
